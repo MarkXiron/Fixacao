@@ -1,0 +1,22 @@
+package questao;
+
+public class questao123123 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		for(int i=7;i<78;++i) {
+			
+			System.out.println(i);
+		}
+		
+	}
+
+}
+
+
+
+
+
+
+
